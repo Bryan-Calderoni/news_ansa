@@ -5,7 +5,7 @@
 
 
 
-# News Italian app from Ansa.it 🤑
+# News Italian app from Ansa.it 
 
 ## The Goal
 
@@ -16,7 +16,7 @@ The objective of this app is to learn about using Material Widgets and providing
 
 A News APP.
 
-![Crypto--gif](https://user-images.githubusercontent.com/77491173/105340630-6a58bd80-5bde-11eb-9bc1-8defc4636bab.gif)
+![ezgif com-optimize-2](https://user-images.githubusercontent.com/77491173/108622464-53a1c280-7439-11eb-969c-1dfcb46bdf84.gif)
 
 
 
